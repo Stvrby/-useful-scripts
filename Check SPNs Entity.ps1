@@ -1,5 +1,5 @@
 ﻿# Paramètres du script
-$EntityName = "32LW3K63M53"  # Remplacez par le nom de l'entité cible
+$EntityName = "XXXXX"  # Remplacez par le nom de l'entité cible
 $CsvFilePath = "C:\tmp\SPNList.csv"  # Chemin du fichier CSV de sortie
 
 # Exécuter la commande setspn et capturer la sortie
